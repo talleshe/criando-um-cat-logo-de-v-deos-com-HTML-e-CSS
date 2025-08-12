@@ -58,3 +58,13 @@ p {
 .categoria h2 {
     color: rgb(42, 122, 228);
 }
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+  font-family: "Chakra Petch", sans-serif;
+  background-image: url("fundo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
